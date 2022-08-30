@@ -6,7 +6,7 @@ Our final classification model was an ensemble model consisting of XGBoost, rand
 
 While this was a group project, all code in this repository is my own. The full repository that includes my teammates' code is in a private repo. 
 
-A report with our full results can be found in the final report and presentation files. 
+A report with our full results can be found in the final report and presentation links below. 
 
 ## Links
 
